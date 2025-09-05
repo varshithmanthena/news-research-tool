@@ -18,7 +18,7 @@ RockyBot is a user-friendly news research tool designed for effortless informati
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/codebasics/langchain.git
+  git clone https://github.com/varshithmanthena/news-research-tool
 ```
 2.Navigate to the project directory:
 
@@ -65,4 +65,5 @@ streamlit run main.py
 - main.py: The main Streamlit application script.
 - requirements.txt: A list of required Python packages for the project.
 - faiss_store_openai.pkl: A pickle file to store the FAISS index.
+
 - .env: Configuration file for storing your OpenAI API key.
